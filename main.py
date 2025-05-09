@@ -29,7 +29,7 @@ def plot_fibonacci(high, low):
 
 # 使用高點72.5和低點51.8繪製圖表
 
-hight = int(input("Hight Value:"))
-low = int(input("Low Value:"))
+hight = float(input("Hight Value:"))
+low = float(input("Low Value:"))
 
 plot_fibonacci(hight, low)
